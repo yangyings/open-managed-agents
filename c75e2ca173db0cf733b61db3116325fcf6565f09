@@ -1,0 +1,112 @@
+.github/workflows/e2e-memory-sandbox.yml
+  86d0940fa1a20ffc 1-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.7",
+  "base_commit_sha": "c75e2ca173db0cf733b61db3116325fcf6565f09",
+  "prompts": {
+    "059cf53a794e974b": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "7fe9dc75-ff4b-4fdb-bf1a-ba406f61072a",
+        "model": "grok-4.6"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 906,
+      "total_deletions": 17,
+      "accepted_lines": 890,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/f6b5f60974ace4ba2e44d50fef0944e60dc02ba2a3388cce8be78f6744f84e75"
+    },
+    "2f79f9864c976973": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "03e80050-516f-4b6f-95a9-1f19036b0f19",
+        "model": "grok-4.6"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 4,
+      "accepted_lines": 2,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/65f95df9cd2f762584ede407bd8c1254c6bb9d5191d92f8f41ca5002ede555de"
+    },
+    "564aecaa0abfa71a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "5ef25d6b-3e36-4853-aff1-7bb314b23011",
+        "model": "grok-4.6"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 347,
+      "total_deletions": 1,
+      "accepted_lines": 340,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/c94f2ae5a401e4b9fa56831b8fc04304c312f5b7680e0514f0118dd93bf5385f"
+    },
+    "83fa4d8f0c8950ac": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "119f2de5-6764-4c76-bb82-cfb2958660ec",
+        "model": "grok-4.6"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 309,
+      "total_deletions": 483,
+      "accepted_lines": 0,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/764e110efd39923f0f9f4009f6f5348ee2d8bf5dabfb32465cb14474c6d0e2e4"
+    },
+    "86d0940fa1a20ffc": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e71f55bf-4f15-4a1d-83a4-9a2fe7c8816e",
+        "model": "grok-4.6"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 178,
+      "total_deletions": 13,
+      "accepted_lines": 54,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/1b31e6c964158198038f29f44a211c2d58267d7d08e1ed84ec2603faaf64b390"
+    },
+    "e459f9a7be422fa4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "18128aa0-1f94-4d5d-9e94-ebeac952f9bd",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 362,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/3b34b93c364c4893e58b19007fe954348c7cbe286c50e677e3a3ea9e21bd8c7d"
+    },
+    "fbd0a7434a0e56c7": {
+      "agent_id": {
+        "tool": "known_human",
+        "id": "known_human_session",
+        "model": "unknown"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 60,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_dc23df7aa69665": {
+      "author": "yangyingshun"
+    }
+  }
+}
