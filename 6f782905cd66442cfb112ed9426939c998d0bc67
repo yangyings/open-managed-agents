@@ -1,0 +1,24 @@
+internal/deployments/execution_test.go
+  86d0940fa1a20ffc 22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.7",
+  "base_commit_sha": "6f782905cd66442cfb112ed9426939c998d0bc67",
+  "prompts": {
+    "86d0940fa1a20ffc": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e71f55bf-4f15-4a1d-83a4-9a2fe7c8816e",
+        "model": "default"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/210ecc87bf99fb7ba0074e5d1b2b285fe2ec39361c241556a3a535d832cd79b9"
+    }
+  }
+}
