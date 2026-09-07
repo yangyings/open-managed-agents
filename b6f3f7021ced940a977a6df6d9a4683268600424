@@ -1,0 +1,24 @@
+web/src/features/managed-agents/ManagedAgentsPage.resources.suite.tsx
+  a3120726a5a22321 860-862
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.7",
+  "base_commit_sha": "b6f3f7021ced940a977a6df6d9a4683268600424",
+  "prompts": {
+    "a3120726a5a22321": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "c43e9199-8d2a-4260-a521-baa69f7900f7",
+        "model": "grok-4.6"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 2,
+      "accepted_lines": 3,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/d4b985915951cce6cd6332c5c56933e55ab6fee748073e09f0a38dc63b98c7e7"
+    }
+  }
+}
