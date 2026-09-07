@@ -1,0 +1,30 @@
+internal/db/session_resource_mapper_test.go
+  adaa3506aead39ee 175-195,429-432,500-501
+internal/db/session_resource_mapper.go
+  adaa3506aead39ee 18
+internal/db/session_resource_mapper.xml
+  adaa3506aead39ee 125-134,423
+docs/design/be/memory-store.md
+  adaa3506aead39ee 264
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.7",
+  "base_commit_sha": "5d1197d5ad5c0faf7daff55e76f212c10622e45c",
+  "prompts": {
+    "adaa3506aead39ee": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "825e105e-210d-4fad-958a-770ead9c7fac",
+        "model": "grok-4.6"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 406,
+      "total_deletions": 17,
+      "accepted_lines": 12,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/7747d09607f8ea3161b6c79402a6b2308cc19642a2459a5f25901c95def3b117"
+    }
+  }
+}

@@ -1,35 +1,35 @@
-internal/db/sessions.go
-  adaa3506aead39ee 69-71,75-77,206-223
-internal/sessions/errors_test.go
-  adaa3506aead39ee 22-23
+web/src/features/managed-agents/resources/dialogs.tsx
+  a3120726a5a22321 890
+web/src/shared/i18n/messages/zh-CN.json
+  a3120726a5a22321 899
 internal/db/session_file_mounts_test.go
   adaa3506aead39ee 34-49
+internal/db/sessions.go
+  adaa3506aead39ee 69-71,75-77,206-223
+tests/sessions_memory_attach_test.go
+  adaa3506aead39ee 6,8,13,15,17-18,316-389,452-599
+internal/sessions/file_resources_test.go
+  adaa3506aead39ee 29-39
+internal/sessions/errors.go
+  adaa3506aead39ee 128-135
+internal/db/session_resource_mapper_test.go
+  adaa3506aead39ee 155-175,409-412
 docs/design/be/memory-store.md
   adaa3506aead39ee 16
-internal/db/session_resource_mapper.xml
-  adaa3506aead39ee 125-134
-internal/db/sessions_helpers.go
-  adaa3506aead39ee 96-98
+web/src/shared/i18n/messages/en.json
+  a3120726a5a22321 899
+web/src/features/managed-agents/ManagedAgentsPage.resources.suite.tsx
+  a3120726a5a22321 860-862
+internal/sessions/errors_test.go
+  adaa3506aead39ee 22-23
 internal/db/session_memory_resources.go
   adaa3506aead39ee 1-58
 internal/db/session_resource_mapper.go
   adaa3506aead39ee 17
-internal/db/session_resource_mapper_test.go
-  adaa3506aead39ee 155-175,409-412
-web/src/features/managed-agents/resources/dialogs.tsx
-  a3120726a5a22321 890
-internal/sessions/errors.go
-  adaa3506aead39ee 128-135
-web/src/shared/i18n/messages/en.json
-  a3120726a5a22321 899
-web/src/shared/i18n/messages/zh-CN.json
-  a3120726a5a22321 899
-tests/sessions_memory_attach_test.go
-  adaa3506aead39ee 6,8,13,15,17-18,316-389,452-599
-web/src/features/managed-agents/ManagedAgentsPage.resources.suite.tsx
-  a3120726a5a22321 860-862
-internal/sessions/file_resources_test.go
-  adaa3506aead39ee 29-39
+internal/db/sessions_helpers.go
+  adaa3506aead39ee 96-98
+internal/db/session_resource_mapper.xml
+  adaa3506aead39ee 125-134
 ---
 {
   "schema_version": "authorship/3.0.0",
