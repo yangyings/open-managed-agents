@@ -1,0 +1,24 @@
+docs/design/be/memory-store.md
+  d2e180dbf375d7fb 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.7",
+  "base_commit_sha": "5d1197d5ad5c0faf7daff55e76f212c10622e45c",
+  "prompts": {
+    "d2e180dbf375d7fb": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "964ea330-e453-43da-8756-7675981ea8ca",
+        "model": "grok-4.6"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/a959177ffabeae7df793ed24dfbae1db487d1b6c65edfa2e0e893e58af90a9da"
+    }
+  }
+}
