@@ -1,0 +1,78 @@
+internal/db/session_file_mounts_test.go
+  adaa3506aead39ee 34-49
+internal/db/session_memory_resources.go
+  adaa3506aead39ee 1-58
+internal/db/session_resource_mapper_test.go
+  adaa3506aead39ee 175-195,429-432
+internal/db/session_resource_mapper.go
+  adaa3506aead39ee 18
+internal/sessions/errors_test.go
+  adaa3506aead39ee 22-23
+internal/db/session_resource_mapper.xml
+  adaa3506aead39ee 125-134
+docs/design/be/memory-store.md
+  adaa3506aead39ee 264
+internal/sessions/file_resources_test.go
+  adaa3506aead39ee 29-39
+internal/db/sessions.go
+  adaa3506aead39ee 69-71,75-77,206-223
+tests/sessions_memory_attach_test.go
+  adaa3506aead39ee 6,8,13,15,17-18,316-389,452-599
+internal/db/sessions_helpers.go
+  adaa3506aead39ee 96-98
+internal/sessions/errors.go
+  adaa3506aead39ee 128-135
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.7",
+  "base_commit_sha": "cfd96648fe0f9f463880ccd6b4d18852ec790af2",
+  "prompts": {
+    "86d0940fa1a20ffc": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e71f55bf-4f15-4a1d-83a4-9a2fe7c8816e",
+        "model": "default"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 290,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/397df5410a89c3821995d6c42f9ba60c6db6769375974f886c96000fa8bde635"
+    },
+    "adaa3506aead39ee": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "825e105e-210d-4fad-958a-770ead9c7fac",
+        "model": "grok-4.6"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 406,
+      "total_deletions": 17,
+      "accepted_lines": 391,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/7747d09607f8ea3161b6c79402a6b2308cc19642a2459a5f25901c95def3b117"
+    },
+    "fbd0a7434a0e56c7": {
+      "agent_id": {
+        "tool": "known_human",
+        "id": "known_human_session",
+        "model": "unknown"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_dc23df7aa69665": {
+      "author": "yangyingshun"
+    }
+  }
+}
