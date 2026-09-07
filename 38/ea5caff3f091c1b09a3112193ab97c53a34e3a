@@ -1,0 +1,26 @@
+web/src/shared/i18n/messages/zh-CN.json
+  a3120726a5a22321 899
+web/src/shared/i18n/messages/en.json
+  a3120726a5a22321 899
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.7",
+  "base_commit_sha": "38ea5caff3f091c1b09a3112193ab97c53a34e3a",
+  "prompts": {
+    "a3120726a5a22321": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "c43e9199-8d2a-4260-a521-baa69f7900f7",
+        "model": "grok-4.6"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 4,
+      "accepted_lines": 2,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/d9a36558b56714aed80647bad5eb1ab575fa1ce4d47d4bca4019bec4a2337679"
+    }
+  }
+}
