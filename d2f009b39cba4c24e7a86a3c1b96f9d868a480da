@@ -1,0 +1,28 @@
+web/src/shared/i18n/messages/en.json
+  d2e180dbf375d7fb 1558
+web/src/shared/i18n/messages/zh-CN.json
+  d2e180dbf375d7fb 1558
+docs/design/be/memory-store.md
+  d2e180dbf375d7fb 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.7",
+  "base_commit_sha": "d2f009b39cba4c24e7a86a3c1b96f9d868a480da",
+  "prompts": {
+    "d2e180dbf375d7fb": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "964ea330-e453-43da-8756-7675981ea8ca",
+        "model": "grok-4.6"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 2,
+      "accepted_lines": 4,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/a959177ffabeae7df793ed24dfbae1db487d1b6c65edfa2e0e893e58af90a9da"
+    }
+  }
+}
