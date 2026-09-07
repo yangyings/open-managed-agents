@@ -1,0 +1,68 @@
+internal/db/sessions.go
+  adaa3506aead39ee 69-71,75-77,206-223
+internal/sessions/errors_test.go
+  adaa3506aead39ee 22-23
+internal/db/session_file_mounts_test.go
+  adaa3506aead39ee 34-49
+docs/design/be/memory-store.md
+  adaa3506aead39ee 16
+internal/db/session_resource_mapper.xml
+  adaa3506aead39ee 125-134
+internal/db/sessions_helpers.go
+  adaa3506aead39ee 96-98
+internal/db/session_memory_resources.go
+  adaa3506aead39ee 1-58
+internal/db/session_resource_mapper.go
+  adaa3506aead39ee 17
+internal/db/session_resource_mapper_test.go
+  adaa3506aead39ee 155-175,409-412
+web/src/features/managed-agents/resources/dialogs.tsx
+  a3120726a5a22321 890
+internal/sessions/errors.go
+  adaa3506aead39ee 128-135
+web/src/shared/i18n/messages/en.json
+  a3120726a5a22321 899
+web/src/shared/i18n/messages/zh-CN.json
+  a3120726a5a22321 899
+tests/sessions_memory_attach_test.go
+  adaa3506aead39ee 6,8,13,15,17-18,316-389,452-599
+web/src/features/managed-agents/ManagedAgentsPage.resources.suite.tsx
+  a3120726a5a22321 860-862
+internal/sessions/file_resources_test.go
+  adaa3506aead39ee 29-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.7",
+  "base_commit_sha": "2b457c2e9e64ba8deceb10f81aeaddc482a4c816",
+  "prompts": {
+    "a3120726a5a22321": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "c43e9199-8d2a-4260-a521-baa69f7900f7",
+        "model": "grok-4.6"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 4,
+      "accepted_lines": 6,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/d9a36558b56714aed80647bad5eb1ab575fa1ce4d47d4bca4019bec4a2337679"
+    },
+    "adaa3506aead39ee": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "825e105e-210d-4fad-958a-770ead9c7fac",
+        "model": "grok-4.6"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 406,
+      "total_deletions": 17,
+      "accepted_lines": 387,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/7747d09607f8ea3161b6c79402a6b2308cc19642a2459a5f25901c95def3b117"
+    }
+  }
+}
