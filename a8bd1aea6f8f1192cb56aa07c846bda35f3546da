@@ -1,0 +1,34 @@
+internal/filestore/memory_backend_move_test.go
+  a84618069a09a670 1-117
+tests/filestore_memory_namespace_test.go
+  a84618069a09a670 312-346,378-407,528-533,538-542,552,665-684
+internal/db/memory.go
+  a84618069a09a670 7,177-189,469-470,495-518,521-554,556-558,561-566,568,570,734-874
+internal/filestore/memory_backend.go
+  a84618069a09a670 28,53-55,129-131,133,138-148,358-360
+docs/design/be/memory-store.md
+  a84618069a09a670 281,284-285
+docs/design/be/filestore.md
+  a84618069a09a670 27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.7",
+  "base_commit_sha": "a8bd1aea6f8f1192cb56aa07c846bda35f3546da",
+  "prompts": {
+    "a84618069a09a670": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "0df0dc51-6827-459c-9edd-4fcc92b429e6",
+        "model": "grok-4.6"
+      },
+      "human_author": "yangyingshun <yangyingshun@cvte.com>",
+      "messages": [],
+      "total_additions": 469,
+      "total_deletions": 145,
+      "accepted_lines": 466,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/9f630e39bb8d84413b2039ca614b773dd3885b070bc6596dd8ae879a89a013a2"
+    }
+  }
+}
