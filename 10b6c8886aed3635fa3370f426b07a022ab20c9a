@@ -1,0 +1,38 @@
+web/src/features/managed-agents/resources/dialogs.tsx
+  a84618069a09a670 21,736
+web/src/features/managed-agents/ManagedAgentsPage.resources.suite.tsx
+  a84618069a09a670 2156-2202
+web/src/features/managed-agents/api.ts
+  a84618069a09a670 357-383
+docs/design/fe/memory-store-attach-form.md
+  a84618069a09a670 29,36
+web/src/features/managed-agents/ManagedAgentsPage.test-utils.tsx
+  a84618069a09a670 919,1760-1768
+web/src/features/managed-agents/api.test.ts
+  a84618069a09a670 6,604-631,681-692
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.7",
+  "base_commit_sha": "10b6c8886aed3635fa3370f426b07a022ab20c9a",
+  "prompts": {
+    "a84618069a09a670": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "0df0dc51-6827-459c-9edd-4fcc92b429e6",
+        "model": "grok-4.6"
+      },
+      "human_author": null,
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 130,
+      "overriden_lines": 1
+    }
+  },
+  "humans": {
+    "h_dc23df7aa69665": {
+      "author": "yangyingshun"
+    }
+  }
+}
